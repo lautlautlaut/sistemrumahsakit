@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sistem Koordinator RS BLU",
+  "description": "Sistem cerdas manajemen Rumah Sakit berbasis AI dengan Koordinator Gemini yang merutekan tugas ke sub-agen spesialis (RME, Admin, Edukasi, Klinis) dan menggunakan Google Search untuk grounding.",
+  "requestFramePermissions": []
+}
